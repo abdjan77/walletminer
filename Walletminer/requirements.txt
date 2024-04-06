@@ -1,0 +1,9 @@
+requests
+pycryptodome
+pyinstaller@6.5.0
+customtkinter
+pycryptodome
+Crypto
+packaging
+tk
+wmi
